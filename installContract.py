@@ -1,21 +1,3 @@
-'''
-Introduction:
-Workshop Example Code from the Blockchain and Machine Learning Workshop at START Summit 2017 in Switzerland
-
-Description:
-This file will take the smart contract code from contract.sol, compile it and send it via transaction
-to the Blockchain. Afterwards it will wait for the transaction to be included in a new block and
-print the contract address.
-
-Author:
-Thomas Schmiedel, Data Reply 2017
-
-Mail:
-t.schmiedel@reply.de
-
-Note:
-This is just example code and not perfect yet, if you have any questions, advice, ..., just drop me a mail :-)
-'''
 
 ##################################
 # imports

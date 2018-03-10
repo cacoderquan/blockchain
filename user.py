@@ -1,20 +1,4 @@
-'''
-Introduction:
-Workshop Example Code from the Blockchain and Machine Learning Workshop at START Summit 2017 in Switzerland
 
-Description:
-The file user.py implements an easy chat-client for transmitting text and images to Blockchain smart contract.
-Tags are automatically extracted from an image using a Deep Residual Neural Network.
-
-Author:
-Thomas Schmiedel, Data Reply 2017
-
-Mail:
-t.schmiedel@reply.de
-
-Note:
-This is just example code and not perfect yet, if you have any questions, advice, ..., just drop me a mail :-)
-'''
 
 ##################################
 # imports

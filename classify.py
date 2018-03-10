@@ -1,20 +1,3 @@
-'''
-Introduction:
-Workshop Example Code from the Blockchain and Machine Learning Workshop at START Summit 2017 in Switzerland
-
-Description:
-Simply give it an image file as command line argument and it will try to classify this image. 
-Weights are pre-trained on imagenet dataset.
-
-Author:
-Thomas Schmiedel, Data Reply 2017
-
-Mail:
-t.schmiedel@reply.de
-
-Note:
-This is just example code and not perfect yet, if you have any questions, advice, ..., just drop me a mail :-)
-'''
 
 ##################################
 # imports
